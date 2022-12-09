@@ -1,2 +1,2 @@
 # JavaScript-DOM
-Bài học JavaScript cơ bản đầu tiên
+Bài học JavaScript DOM cơ bản đầu tiên
